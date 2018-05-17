@@ -1,0 +1,13 @@
+Optimum of the weird function found by bisection 1.4340255537854398
+Optimum of the weird function found by GD with exact line search [[1.43402555]]
+Optimum of the weird function found by Newton with exact line search [[1.43402555]]
+Optimum of the weird function found by GD with backtracking line search [[1.43375809]]
+Optimum of the weird function found by Newton with backtracking line search [[1.43916293]]
+Optimum of the quadratic function found by GD with exact line search [[ 0.00765583 -0.00011342]]
+Optimum of the quadratic function found by Newton with exact line search [[0. 0.]]
+Optimum of the quadratic function found by GD with backtracking line search [[ 0.00708124 -0.00023187]]
+Optimum of the quadratic function found by Newton with backtracking line search [[0. 0.]]
+Optimum of the Boyd's function found by GD with exact line search [[-3.47097476e-01  2.47005594e-05]]
+Optimum of the Boyd's function found by Newton with exact line search [[-0.34126199  0.000805  ]]
+Optimum of the Boyd's function found by GD with backtracking line search [[-3.47261101e-01  1.96441251e-04]]
+Optimum of the Boyd's function found by Newton with backtracking line search [[-0.34513821  0.00071872]]
