@@ -14,6 +14,6 @@ This Repo consist of the assignments of '[Convex Optimization](http://francesco.
 * Optimized the linear programming problem
 
 ## Assignment 4
-* Sub-gradient Descent
-* Stochastic sub-gradient descent
+* Subgradient Descent
+* Stochastic subgradient descent
 * Stochastic Adagrad
